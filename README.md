@@ -77,7 +77,12 @@ These results suggest that self-limiting colony growth can emerge naturally from
 
 ## Structure
 ```
-stochastic-colony-growth.ipynb          # full simulation and analysis
+stochastic-colony-growth/
+│
+├── stochastic_colony_growth.ipynb   # Main simulation and analysis notebook
+├── README.md                        # Project overview and results summary
+├── LICENSE                          # MIT license
+└── figures/                         # Static figures and animated GIFs          
 ```
 
 | Section | Content |
